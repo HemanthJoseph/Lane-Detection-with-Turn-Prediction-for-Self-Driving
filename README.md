@@ -92,7 +92,7 @@ of curvature of the road
 ## Usage
 * Clone the repo to your local machine
 ```
-git clone https://github.com/HemanthJoseph/Image-Stitching.git
+git clone https://github.com/HemanthJoseph/Lane-Detection-with-Turn-Prediction-for-Self-Driving.git
 ```
 * Change Directory
 ```
