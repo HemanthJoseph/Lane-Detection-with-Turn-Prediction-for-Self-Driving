@@ -100,9 +100,12 @@ cd src
 ```
 * Run the python file
 ```
-python Image_Stitching.py
+python Lane_Detect.py
 ```
 
+```
+python Turn_Predict.py
+```
 ## Dependencies and libraries
 1. Python 3.9.12
 2. OpenCV '4.7.0'
